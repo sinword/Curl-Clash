@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/PracticeScene.unity
+    guid: 3ddd018682fa3452186a76131e52f360
+  - enabled: 0
+    path: Assets/Scenes/TutorialScene.unity
+    guid: fdfa581f6a5ed4e00a90e56c3403f3cf
+  - enabled: 0
+    path: Assets/Scenes/Experimental.unity
+    guid: e7e91ca2b13607d4387c255a126ebfcc
+  - enabled: 0
+    path: Assets/Scenes/Level1_Copy.unity
+    guid: 858f67acbefc1d542a097d997fafac33
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: ef7c83217207d43ff864e54914f3054c
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 8d6383cb3de104540961353e2e952216
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 30b32d38b732c43cda41dfb73f70929f
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 41827546d737946e095f33eb438d3a4e
+  m_configObjects:
+    com.htc.upm.wave.xrsdk.xrsettings: {fileID: 11400000, guid: ce2a6dadd6e34e347b3c4779023e4e7c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ebe635a0495613b4fa0b7683c3257f14, type: 2}

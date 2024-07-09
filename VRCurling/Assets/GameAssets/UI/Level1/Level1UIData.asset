@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 356d8544a6fb04b7d962b710432f20da, type: 3}
+  m_Name: Level1UIData
+  m_EditorClassIdentifier: 
+  StartUI: {fileID: 1438342218975104371, guid: 4ce2a9c4329804dbdbf762c837377c4e, type: 3}
+  SuccessUI: {fileID: 1438342218975104371, guid: 2b837961c84c77541951b3483644182b, type: 3}
+  FailUI: {fileID: 1438342218975104371, guid: aa7b2a3a28b294b6bbc5607dc16a2ece, type: 3}
+  ScoreUI: {fileID: 1438342218975104371, guid: 18a8cce8e461c934cbf6f4efe25827e5, type: 3}
+  GoBackUI: {fileID: 1438342218975104371, guid: a2e002febcc3344d981accda5edc260f, type: 3}
+  StandToSweepHintUI: {fileID: 1438342218975104371, guid: 66bb8586bc9274135ad5b42dec2863e1, type: 3}
+  CongratulationUI: {fileID: 1438342218975104371, guid: 9b9334249b57a46348b10ac678de227d, type: 3}
+  NeedCurling: 1
+  NeedSweeping: 0
+  NeedScore: 0
+  NeedCongratulation: 0
